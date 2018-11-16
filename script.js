@@ -1,7 +1,7 @@
 
 //creo un ciclo "for" per stampare i numeri da 1 a 100
 
-for (var i = 0; i <= 100; i++) {
+for (var i = 1; i <= 100; i++) {
    document.writeln(i + '<br>');
 
 //determino la condizione tale che se il numero è
